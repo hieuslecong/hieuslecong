@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hieuslecong.github.io/sitemap.xml
+Sitemap: https://hieuslecong.github.io//sitemap.xml
